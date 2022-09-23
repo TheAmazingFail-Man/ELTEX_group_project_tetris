@@ -1,4 +1,4 @@
-![tetris](/picture/Tetris.png)
+![tetris](/pictures/Tetris.png)
 Программа представляет собой сетевую версию игры Tetris.
 
 Установка:
